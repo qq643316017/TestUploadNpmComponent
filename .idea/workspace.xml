@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc49e01c-b1fc-45c1-8a1f-179cc4beee45" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="cc49e01c-b1fc-45c1-8a1f-179cc4beee45" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -1192,8 +1189,8 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="38" />
-    <option name="y" value="29" />
+    <option name="x" value="65" />
+    <option name="y" value="23" />
     <option name="width" value="1334" />
     <option name="height" value="844" />
   </component>
@@ -1257,17 +1254,17 @@
       <updated>1526894767223</updated>
       <workItem from="1526894768486" duration="69000" />
       <workItem from="1526896722502" duration="1327000" />
-      <workItem from="1526958751913" duration="918000" />
+      <workItem from="1526958751913" duration="1175000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2314000" />
+    <option name="totallyTimeSpent" value="2571000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="29" width="1334" height="844" extended-state="0" />
+    <frame x="65" y="23" width="1334" height="844" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2498096" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2498096" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -1275,7 +1272,7 @@
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32931727" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32931727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
