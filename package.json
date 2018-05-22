@@ -1,6 +1,6 @@
 {
   "name": "testuploadnpmcomponent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TestUploadNpmComponent",
   "main": "index.js",
   "scripts": {
